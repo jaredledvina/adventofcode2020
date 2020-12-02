@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import re
 from collections import Counter
 
 def read_input():
